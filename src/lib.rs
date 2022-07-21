@@ -1,3 +1,5 @@
+#![no_std]
+
 static FNV_OFFSET_BASIS_32: u32 = 0x811c9dc5;
 static FNV_PRIME_32: u32 = 0x01000193;
 
