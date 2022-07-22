@@ -1,5 +1,5 @@
 [package]
-name = "fnv1-rs"
+name = "fnv1"
 version = "0.1.0"
 edition = "2021"
 
